@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Introducing CloudVision
 
-You can use the [editor on GitHub](https://github.com/Amin-Azar/CloudVision/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A Computer Vision as a Service Model that aims to use accessible, public camera data and computer vision technology to make communities safe and clean through smart waste management and traffic flow management.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Waste Management System
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In Metro Vancouver, approximately 1,400 kilograms of total waste is generated per person per year.
+Now, imagine places like downtown Vancouver, that have a density of 16,764 people per square kilometer.
+With the large amount of waste produced in concentrated areas, garbage overflow is a recurring and significant issue.
 
-```markdown
-Syntax highlighted code block
+Cloud Vision’s smart waste management system aims to optimize waste collection routes in municipalities by adjusting the frequency of collection in areas depending on whether garbage production is low or high, and addressing overspills immediately.
 
-# Header 1
-## Header 2
-### Header 3
+By detecting litter such as garbage bags out in the open, this system can determine unusually high volumes and notify waste management facilities so that there is no need to wait until the next cycle.
 
-- Bulleted
-- List
+Optimizing waste collection routes using camera data means municipalities can adjust the frequency/prioritization of garbage collection in areas depending on whether garbage production is low or high, and address overspills immediately. Compared to traditional routing of going street by street, optimized routes can save on costs incurred from garbage transport, and also reduce their carbon footprint.
 
-1. Numbered
-2. List
+### Traffic Management System
 
-**Bold** and _Italic_ and `Code` text
+This system aims to dynamically adjust traffic light timing based on the flow of people and cars at various times and days, including special events such as concerts and festivals.
 
-[Link](url) and ![Image](src)
-```
+It can go one step further and use historical patterns of the flow of traffic at intersections to adjust the timing of a signal. This historical data can also be used to justify introducing modifications in road infrastructure if there is a need for a left turn lane and/or left turn signal.
+The system aims to combine the data from a network of intersections to optimize the flow of traffic so that not only is it based on the flow of an individual intersection, but also the neighboring ones.
+Detecting people and buses allows for additional applications such as dynamically servicing the need for public transportation depending on the number of people waiting at bus stops. This  can reduce the carbon footprint in instances when an empty bus would normally complete the entire route. Taxi service providers can also be notified and mobilize to areas with clusters of people waiting.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Amin-Azar/CloudVision/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Team Members
+
+- Amin Ghasemazar
+- Shihab Mahbubur
+- Laila Khan
+- Sam Piltan
+- Reza Hojabr
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble? 3Please feel free to email us and we will ge tback to you as soon as we can :-)
