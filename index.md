@@ -1,6 +1,7 @@
 ## Introducing CloudVision
 
 A Computer Vision as a Service Model that aims to use accessible, public camera data and computer vision technology to make communities safe and clean through smart waste management and traffic flow management. [View on GitHub](https://github.com/Amin-Azar/CloudVision/tree/master)
+https://github.com/Amin-Azar/CloudVision/
 
 
 ### Waste Management System
