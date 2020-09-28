@@ -5,10 +5,6 @@ A Computer Vision as a Service Model that aims to use accessible, public camera 
 
 ### Waste Management System
 
-In Metro Vancouver, approximately 1,400 kilograms of total waste is generated per person per year.
-Now, imagine places like downtown Vancouver, that have a density of 16,764 people per square kilometer.
-With the large amount of waste produced in concentrated areas, garbage overflow is a recurring and significant issue.
-
 Cloud Vision’s smart waste management system aims to optimize waste collection routes in municipalities by adjusting the frequency of collection in areas depending on whether garbage production is low or high, and addressing overspills immediately.
 
 By detecting litter such as garbage bags out in the open, this system can determine unusually high volumes and notify waste management facilities so that there is no need to wait until the next cycle.
