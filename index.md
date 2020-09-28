@@ -33,4 +33,4 @@ Detecting people and buses allows for additional applications such as dynamicall
 
 ### Support or Contact
 
-Having trouble? 3Please feel free to email us and we will ge tback to you as soon as we can :-)
+Having trouble? Please feel free to email us and we will ge tback to you as soon as we can :-)
